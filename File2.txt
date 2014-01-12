@@ -1,4 +1,8 @@
 
 Initial line in File2
 
-Another line added.
+Another line added
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+this change occurred in V2.0.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
