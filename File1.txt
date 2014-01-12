@@ -1,2 +1,4 @@
 
-Initial line in File1.
+Initial line in File1
+
+Another line added.
