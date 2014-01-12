@@ -1,4 +1,8 @@
 
 Initial line in File1
 
-Another line added.
+Another line added
+
+Yet another change
+
+stashed changes. Plus this little extra amendment.
